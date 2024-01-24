@@ -1,0 +1,6 @@
+@Fbtarjeta_HostAddress = http://localhost:5084
+
+GET {{Fbtarjeta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
